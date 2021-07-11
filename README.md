@@ -1,8 +1,8 @@
-- Hi, I’m @srikanth2102
-- I’m interested in Machine Learning,Deep Learning, and competetive coding
-- I’m currently learning Ml and Dl
-- I’m looking to collaborate to make a end to end project with my ipl ml model
-- contact: @sri212002kanth@gmail.com
+- I am Srikanth.
+- I am a third year engineering student.
+- MY 2021 goal is to become better in ML and competetive programming.
+- Do check my repositories for ML project ideas. 
+- contact: @sri212002kanth@gmail.com.
 
 <!---
 srikanth2102/srikanth2102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
