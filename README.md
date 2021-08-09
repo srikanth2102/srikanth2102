@@ -4,8 +4,9 @@
 - Aspiring to work with data.
 - I am currently learning MySql.
 - Do check my repositories for ML and computer vision project ideas.
-- Do use my CODECHEF repo for practicing competetive programming. 
-- contact: @sri212002kanth@gmail.com.
+- Do use my CODECHEF repo for practicing competetive programming.
+- If you liked my content give me a follow and star the repos that intrest you. 
+- contact: @sri212002kanth@gmail.com. 
 
 <!---
 srikanth2102/srikanth2102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
