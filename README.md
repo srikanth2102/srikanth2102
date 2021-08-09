@@ -1,5 +1,5 @@
 - HEY! I am Srikanth.
-- I am a third year engineering student.
+- I am currently pursuing my undergrad in engineering.
 - MY 2021 goal is to get better in ML and Deep learning.
 - Aspiring to work with data.
 - I am currently learning MySql.
