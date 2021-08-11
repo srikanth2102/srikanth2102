@@ -4,7 +4,7 @@
 - MY 2021 goal is to get better in ML and Deep learning.
 - Aspiring to work with data.
 - I am currently learning MySql.
-- Do check my repositories for ML and computer vision project ideas.
+- Do check my repositories for ML, DL and Data Analytics project ideas.
 - Do use my CODECHEF repo for practicing competetive programming.
 - If you liked my content give me a follow and star the repos that intrest you. 
 - contact: @sri212002kanth@gmail.com. 
