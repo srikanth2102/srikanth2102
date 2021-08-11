@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Srikanth S</h1>
+<h1 align="center">Hey 👋, I'm Srikanth</h1>
 
 - I am currently pursuing my undergrad in engineering.
 - MY 2021 goal is to get better in ML and Deep learning.
