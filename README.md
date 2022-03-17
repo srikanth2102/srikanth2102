@@ -1,12 +1,9 @@
 <h1 align="center">Hey 👋, I'm Srikanth</h1>
 
 - I am currently pursuing my undergrad in engineering.
-- MY 2021 goal is to get better in ML and Deep learning.
 - Aspiring to work with data.
-- I am currently learning MySql.
 - Do check my repositories for ML, DL and Data Analytics project ideas.
 - Do use my CODECHEF repo for practicing competetive programming.
-- If you liked my content give me a follow and star the repos that intrest you. 
 - contact: @sri212002kanth@gmail.com. 
 
 <h3 align="left">Languages and Tools:</h3>
