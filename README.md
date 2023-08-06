@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Srikanth</h1>
 
-- Software Engineer @Natwest group/
+- Software Engineer @Natwest group
 - contact: @sri212002kanth@gmail.com. 
 
 <h3 align="left">Languages and Tools:</h3>
